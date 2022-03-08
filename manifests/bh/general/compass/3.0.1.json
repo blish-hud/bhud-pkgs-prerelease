@@ -1,0 +1,14 @@
+{
+  "manifest_version": "1",
+  "name": "Compass",
+  "namespace": "bh.general.compass",
+  "version": "3.0.1",
+  "contributors": null,
+  "description": "Displays a basic indicator at your feet that shows you North, East, South, and West.",
+  "dependencies": {
+    "bh.blishhud": ">=0.8.0"
+  },
+  "url": "https://github.com/blish-hud/Blish-HUD",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/bh.general.compass_v3.0.1/bh.general.compass-3.0.1.bhm",
+  "hash": "F1152E2F091D4CB907CE1D210F8A47549A8EF1D2FC688F25CDDADC4636FB43FA"
+}
