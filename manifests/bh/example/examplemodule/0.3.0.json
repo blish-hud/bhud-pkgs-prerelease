@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1",
+  "name": "Example Module",
+  "namespace": "bh.example.examplemodule",
+  "version": "0.3.0",
+  "contributors": [
+    {
+      "username": "Gw2AccountName.1234",
+      "name": "Me"
+    },
+    {
+      "username": "Gw2AccountName2.1234",
+      "name": "Myself"
+    }
+  ],
+  "description": "Acts as an example on how to create a Blish HUD module.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.7"
+  },
+  "url": "https://github.com/blish-hud/Blish-HUD",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/bh.example.examplemodule_v0.2.0/bh.example.examplemodule-0.2.0.bhm",
+  "hash": "0BA5D3566D4DA2AEDF7D57059327FF41F5C24E915E3DA71A3CD4E905E12F3772"
+}
