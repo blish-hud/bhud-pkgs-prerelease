@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Trading Post Watcher",
+  "namespace": "estreya.bh.tradingPostWatcher",
+  "version": "0.3.3",
+  "contributors": [
+    {
+      "name": "Estreya",
+      "username": "Estreya.8675"
+    }
+  ],
+  "description": "NEEDS BlishHUD >=0.11.8-ci.275\nProvides functionality to display your current buy and sell transactions and highlights them whether they are highest price or outbid.\nAllows the user to track items and get notified when they reached the set best price.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.8"
+  },
+  "url": "https://github.com/Tharylia/Blish-HUD-Modules",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/estreya.bh.tradingpostwatcher_v0.3.3/estreya.bh.tradingPostWatcher-0.3.3.bhm",
+  "hash": "8032809B329D9EAA6C75E3CB442DF062EE4D7E16517D6996D31A50F065D259B5"
+}
