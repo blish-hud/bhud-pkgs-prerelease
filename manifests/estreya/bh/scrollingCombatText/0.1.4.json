@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Scrolling Combat Text",
+  "namespace": "estreya.bh.scrollingCombatText",
+  "version": "0.1.4",
+  "contributors": [
+    {
+      "name": "Estreya",
+      "username": "Estreya.8675"
+    }
+  ],
+  "description": "NEEDS BlishHUD >=0.11.8-ci.275\nDisplays highly customizable scrolling combat text which can be moved around the screen.\nCan be used in combination with ArcDPS Setting \"SUPRESS COMBAT FLOATING TEXT\".\n\nSkills marked as Unknown are not available via the GW2 API.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.8"
+  },
+  "url": "https://github.com/Tharylia/Blish-HUD-Modules",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/estreya.bh.scrollingcombattext_v0.1.4/estreya.bh.scrollingCombatText-0.1.4.bhm",
+  "hash": "A793DF07480EB55F0430AB45581E3BF4AB085C7B2ED904502FA176D18A9F62BB"
+}
