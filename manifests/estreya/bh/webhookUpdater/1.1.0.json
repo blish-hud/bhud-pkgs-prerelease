@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Webhook Updater",
+  "namespace": "estreya.bh.webhookUpdater",
+  "version": "1.1.0",
+  "contributors": [
+    {
+      "username": "Estreya.8675",
+      "name": "Estreya"
+    }
+  ],
+  "description": "Provides the ability to update custom webhooks.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/Tharylia/Blish-HUD-Modules",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/estreya.bh.webhookupdater_v1.1.0/estreya.bh.webhookUpdater-1.1.0.bhm",
+  "hash": "924123F04B3337A010ED0966A6D711299743AE236B132CE49D831E3F63745550"
+}
