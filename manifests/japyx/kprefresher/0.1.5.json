@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "KpRefresher",
+  "namespace": "japyx.kprefresher",
+  "version": "0.1.5",
+  "contributors": [
+    {
+      "username": "Japyx.3265",
+      "name": "Japyx"
+    }
+  ],
+  "description": "A module to help refresh your kp on KillProof.me ! Includes many useful tools, such as auto-refresh, map detection, easy week clear status, copy id to clipboard, linked account support and more",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/OlivierCharton/KpRefresher",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/japyx.kprefresher_v0.1.5/japyx.kprefresher-0.1.5.bhm",
+  "hash": "38D8217D36668C5ADA9AEEB8F5C1205DCFDC250203734B6CDDCE2D3A9008A391"
+}
