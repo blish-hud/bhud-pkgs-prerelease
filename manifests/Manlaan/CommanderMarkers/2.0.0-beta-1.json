@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1",
+  "name": "Commander Markers",
+  "namespace": "Manlaan.CommanderMarkers",
+  "version": "2.0.0-beta-1",
+  "contributors": [
+    {
+      "username": "manlaan.8921",
+      "name": "Manlaan"
+    },
+    {
+      "username": "Soeed.4160",
+      "name": "Soeed"
+    }
+  ],
+  "description": "Make squad markers 'Click-to-place'!\n\nLeft click to select a marker then click to place it in the world. Right click to remove the marker.\nBy default the markers only appear when you are the commander.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/manlaan/BlishHud-CommanderMarkers",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/manlaan.commandermarkers_v2.0.0-beta-1/Manlaan.CommanderMarkers-2.0.0-beta-1.bhm",
+  "hash": "13CE17AACAF77659389530BA268A52BD9D79E059405882C800C29CE0E1F918CA"
+}
