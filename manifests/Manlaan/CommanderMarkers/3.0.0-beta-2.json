@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1",
+  "name": "Commander Markers",
+  "namespace": "Manlaan.CommanderMarkers",
+  "version": "3.0.0-beta-2",
+  "contributors": [
+    {
+      "username": "Soeed.4160",
+      "name": "Soeed"
+    },
+    {
+      "name": "QuitarHero"
+    },
+    {
+      "username": "manlaan.8921",
+      "name": "Manlaan"
+    }
+  ],
+  "description": "Make squad markers 'Click-to-place'!\n(beta) Automatically place markers. Open your map when close to a marker and press F to place common raid and strike markers.\n\nLeft click to select a marker then click to place it in the world. Right click to remove the marker.\nBy default the markers only appear when you are the commander.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/manlaan/BlishHud-CommanderMarkers",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/manlaan.commandermarkers_v3.0.0-beta-2/Manlaan.CommanderMarkers-3.0.0-beta-2.bhm",
+  "hash": "72B559E9F13207D3AB3456A517CF9441529B4527D88940E9782D2F4C918F3372"
+}
