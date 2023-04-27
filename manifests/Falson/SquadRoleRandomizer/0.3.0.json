@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1",
+  "name": "Raid Squad Role Randomizer",
+  "namespace": "Falson.SquadRoleRandomizer",
+  "version": "0.3.0",
+  "contributors": [
+    {
+      "name": "Falson"
+    }
+  ],
+  "description": "Allows you to randomly assign roles to your raid static based upon the roles each member is able to play. Click the new corner icon to access the randomizer setup window.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/Falson127/Falson.Squad_Role_Randomizer",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/falson.squadrolerandomizer_v0.3.0/Falson.SquadRoleRandomizer-0.3.0.bhm",
+  "hash": "B1DC89C8BEDBE3C971AA39C8FACE896CECD024D3C2DE6E76E9A06530652176B6"
+}
