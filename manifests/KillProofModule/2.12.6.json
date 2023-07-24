@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Proof Logix",
+  "namespace": "KillProofModule",
+  "version": "2.12.6",
+  "contributors": [
+    {
+      "username": "Nekres.1943",
+      "name": "Nekres"
+    }
+  ],
+  "description": "Check someone's kills for raiding. Uses ArcDPS Bridge service if available.\n\nPowered by www.killproof.me",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/agaertner/bhm-proof-logix",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/killproofmodule_v2.12.6/KillProofModule-2.12.6.bhm",
+  "hash": "4DBD32CA00A0710367913E26BEEC0A8677EB73E5CF6FCDD2C3519EFE8FB82C10"
+}
