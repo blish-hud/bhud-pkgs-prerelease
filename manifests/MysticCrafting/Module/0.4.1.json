@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1",
+  "name": "Mystic Crafting",
+  "namespace": "MysticCrafting.Module",
+  "version": "0.4.1",
+  "contributors": [
+    {
+      "name": "Atzie"
+    }
+  ],
+  "description": "Mystic forge recipes displayed in a detailed crafting tree.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/ynzenu/MysticCraftingModule",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/mysticcrafting.module_v0.4.1/MysticCrafting.Module-0.4.1.bhm",
+  "hash": "5853723410B1F79B3D9393DCA675FDE8965D47CDEE565D2E310CEAEF2EBD2360"
+}
