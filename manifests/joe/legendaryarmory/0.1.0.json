@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Legendary Armory",
+  "namespace": "joe.legendaryarmory",
+  "version": "0.1.0",
+  "contributors": [
+    {
+      "name": "Joe",
+      "url": "https://github.com/JoeMylinn",
+      "username": "Joe.1839"
+    }
+  ],
+  "description": "Adds an overview of your unlocked Legendary Items.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/JoeMylinn/LegendaryArmory",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/joe.legendaryarmory_v0.1.0/joe.legendaryarmory-0.1.0.bhm",
+  "hash": "4122558D2CE2F89F0362DBE72BF4BA3000E826D6E76833A4AE968693A3250E7A"
+}
