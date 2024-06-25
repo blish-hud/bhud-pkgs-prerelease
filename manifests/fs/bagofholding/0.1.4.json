@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Bag of Holding",
+  "namespace": "fs.bagofholding",
+  "version": "0.1.4",
+  "contributors": [
+    {
+      "username": "freesnow.7251",
+      "name": "Freesnow",
+      "url": "https://github.com/dlamkins"
+    }
+  ],
+  "description": "Makes organizing corner icons easier.  Drag icons in the top left corner into the Bag of Holding to reduce some of the clutter.  Drag them back out whenever you want.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/dlamkins/BagOfHolding",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/fs.bagofholding_v0.1.4/fs.bagofholding-0.1.4.bhm",
+  "hash": "FB3119607582E779B1D5BC559730886D1F341FD076825E2DBEDE01E768B6CC1C"
+}
