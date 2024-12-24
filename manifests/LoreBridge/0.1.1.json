@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "LoreBridge",
+  "namespace": "LoreBridge",
+  "version": "0.1.1",
+  "contributors": [
+    {
+      "username": "Kirill.2147",
+      "name": "HolyShock"
+    }
+  ],
+  "description": "Translating text from the screen. Supports Windows 10 and above.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/KirillSerogodsky/BlishHUD-LoreBridge",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/lorebridge_v0.1.1/LoreBridge-0.1.1.bhm",
+  "hash": "1A876E39B2A9876750306B10566FD9A869687DDFEAB9B4E84E9EDCD188003120"
+}
