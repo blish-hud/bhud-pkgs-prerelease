@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1",
+  "name": "Mystic Crafting",
+  "namespace": "MysticCrafting.Module",
+  "version": "1.5.4-rc.1",
+  "contributors": [
+    {
+      "name": "Atzie"
+    }
+  ],
+  "description": "Everything you need to craft legendaries and other items in the Mystic Forge. Track your crafting progression with synchronised account data and a detailed recipe overview.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/ynzenu/MysticCraftingModule",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/mysticcrafting.module_v1.5.4-rc.1/MysticCrafting.Module-1.5.4-rc.1.bhm",
+  "hash": "C8B5715D899E323FE8A7BF087B1C1882E36D0233BF4169002BF57C675F9F1898"
+}
