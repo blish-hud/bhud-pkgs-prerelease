@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1",
+  "name": "gw2stacks",
+  "namespace": "gw2stacks_blish",
+  "version": "0.1.0",
+  "contributors": [
+    {
+      "name": "ImDarla"
+    }
+  ],
+  "description": "Blishhud port of gw2stacks with blessings from zweistein",
+  "dependencies": {
+    "bh.blishhud": ">=0.5.2"
+  },
+  "url": "https://github.com/ImDarla/gw2stacks_blish",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/gw2stacks_blish_v0.1.0/gw2stacks_blish-0.1.0.bhm",
+  "hash": "BFFB2DAB87531BD3ADB8850DD2E08219C15F3B13C9E0E9BB9D5295FB2B772DBC"
+}
