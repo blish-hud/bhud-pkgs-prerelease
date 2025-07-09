@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "What Role Am I Playing?",
+  "namespace": "Soeed.WhatRoleAmIPlaying",
+  "version": "0.1.0",
+  "contributors": [
+    {
+      "url": "https://github.com/a727891",
+      "name": "Soeed",
+      "username": "Soeed.4160"
+    }
+  ],
+  "description": "A BlishHUD module that helps you pick a role to play.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/a727891/BlishHud-WhatRoleAmIPlaying",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/soeed.whatroleamiplaying_v0.1.0/Soeed.WhatRoleAmIPlaying-0.1.0.bhm",
+  "hash": "92E6E2BEFAD299D26AE29DB32F561D0541992BD8255227842E192FEADD02B52A"
+}
