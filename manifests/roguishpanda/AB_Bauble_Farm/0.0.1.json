@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "AB Bauble Farm",
+  "namespace": "roguishpanda.AB_Bauble_Farm",
+  "version": "0.0.1",
+  "contributors": [
+    {
+      "name": "roguishpanda",
+      "username": "RoguishPanda.9507"
+    }
+  ],
+  "description": "AB Bauble Farm",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/roguishpanda.ab_bauble_farm_v0.0.1/roguishpanda.AB_Bauble_Farm-0.0.1.bhm",
+  "hash": "E8F54333AC99DEBA9B25874C4371F584FF23B8FA3149D62B47B48210804569C7"
+}
