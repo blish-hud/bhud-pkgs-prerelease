@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Shiny Baubles",
+  "namespace": "roguishpanda.AB_Bauble_Farm",
+  "version": "0.0.4",
+  "contributors": [
+    {
+      "name": "roguishpanda",
+      "username": "RoguishPanda.9507"
+    }
+  ],
+  "description": "Can be used to farm Shiny Baubles from events in Auric Basin. \n\nComes with event timers and a window to track when the Shiny Bauble map bonus begins.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/roguishpanda.ab_bauble_farm_v0.0.4/roguishpanda.AB_Bauble_Farm-0.0.4.bhm",
+  "hash": "787C0552CE2D7883E4B886EF4BB32E1AEE24BACB1F0D3A2CA8A1DED8FD3F3604"
+}
