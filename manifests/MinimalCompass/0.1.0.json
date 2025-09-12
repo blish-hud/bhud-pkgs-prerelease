@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1",
+  "name": "MinimalCompass",
+  "namespace": "MinimalCompass",
+  "version": "0.1.0",
+  "contributors": [
+    {
+      "name": "Seali"
+    }
+  ],
+  "description": "A very minimal compass that is inspired by Player Unknown Battlegrounds (and possibly Skyrim's).",
+  "dependencies": {
+    "bh.blishhud": ">=0.5.2"
+  },
+  "url": "https://github.com/GW2Seali/MinimalCompass",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/minimalcompass_v0.1.0/MinimalCompass-0.1.0.bhm",
+  "hash": "BFC86101AF0234AA2C8770325F8ED346EB3ACDAA4C0B9DA46366E53E1F85FCED"
+}
