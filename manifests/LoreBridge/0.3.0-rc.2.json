@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "LoreBridge",
+  "namespace": "LoreBridge",
+  "version": "0.3.0-rc.2",
+  "contributors": [
+    {
+      "name": "HolyShock",
+      "username": "Kirill.2147"
+    }
+  ],
+  "description": "Set of utilities primarily focused on translating storyline content.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.1"
+  },
+  "url": "https://github.com/KirillSerogodsky/BlishHUD-LoreBridge",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/lorebridge_v0.3.0-rc.2/LoreBridge-0.3.0-rc.2.bhm",
+  "hash": "B74D674164585CCF70AF4D9257B2F451852295EC916B90DF7D7A47446D45289C"
+}
