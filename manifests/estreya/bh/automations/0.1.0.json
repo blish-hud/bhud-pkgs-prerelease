@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Automations",
+  "namespace": "estreya.bh.automations",
+  "version": "0.1.0",
+  "contributors": [
+    {
+      "name": "Estreya",
+      "username": "Estreya.8675"
+    }
+  ],
+  "description": "",
+  "dependencies": {
+    "bh.blishhud": "^1.0.0"
+  },
+  "url": "https://github.com/Tharylia/Blish-HUD-Modules",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/estreya.bh.automations_v0.1.0/estreya.bh.automations-0.1.0.bhm",
+  "hash": "DA97E1911EA4FD65EF0F1A385A2AF2A1F5D2B8B2BABE9C400A8D9560FD4EAA74"
+}
