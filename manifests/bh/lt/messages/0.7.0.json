@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1",
+  "name": "LT Messages",
+  "namespace": "bh.lt.messages",
+  "version": "0.7.0",
+  "contributors": [
+    {
+      "name": "Senzall"
+    }
+  ],
+  "description": "Quick message sender for Lieutenant Tags to send pre-configured messages to squad chat.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/senzal/LTMessages",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/bh.lt.messages_v0.7.0/bh.lt.messages-0.7.0.bhm",
+  "hash": "F5D236BBF3D9BCBE0B3FD92CCE0B1F06D4E843C4EC56968373D5C1601D163D89"
+}
