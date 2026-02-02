@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Alliance Manager",
+  "namespace": "Neokain.GW2.AllianceManager",
+  "version": "0.2.8",
+  "contributors": [
+    {
+      "username": "Neokain.3179",
+      "name": "Neokain"
+    }
+  ],
+  "description": "Alliance & Guild management module.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/neokain.gw2.alliancemanager_v0.2.8/Neokain.GW2.AllianceManager-0.2.8.bhm",
+  "hash": "A90BFFA34E0B8F3DAFC548EEB2B2B926CD1F4FEAB92481DE49418B6C002BBABD"
+}
