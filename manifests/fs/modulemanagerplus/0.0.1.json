@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "ModuleManager+",
+  "namespace": "fs.modulemanagerplus",
+  "version": "0.0.1",
+  "contributors": [
+    {
+      "name": "Freesnow",
+      "username": "freesnow.7251",
+      "url": "https://github.com/dlamkins"
+    }
+  ],
+  "description": "Extends module management functionality.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://github.com/dlamkins/ModuleManagerPlus",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/fs.modulemanagerplus_v0.0.1/fs.modulemanagerplus-0.0.1.bhm",
+  "hash": "656AE250224C05A8DD8A50280179F82BDBA84F54E0F555AFAF099897FBC11E36"
+}
