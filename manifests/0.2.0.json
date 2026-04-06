@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Active Comms",
+  "namespace": "mortaljohn.activecomms",
+  "version": "0.2.0",
+  "contributors": [
+    {
+      "name": "MortalJohn",
+      "username": "MortalJohn",
+      "url": "https://github.com/MortalJohn"
+    }
+  ],
+  "description": "Voice-to-text chat injection for Guild Wars 2. Press your mic toggle key to record speech — the transcription is injected directly into the GW2 chat box.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.8"
+  },
+  "url": "https://github.com/MortalJohn/ActiveComms",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/mortaljohn.activecomms_v0.2.0/mortaljohn.activecomms-0.2.0.bhm",
+  "hash": "8635BBFB6F73EAF847C77B583C58039AC1E8086523015BE1B34A5257F967FD3B"
+}
