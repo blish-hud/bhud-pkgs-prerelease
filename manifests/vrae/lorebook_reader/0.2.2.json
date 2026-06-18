@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Lorebook Reader",
+  "namespace": "vrae.lorebook_reader",
+  "version": "0.2.2",
+  "contributors": [
+    {
+      "name": "Vrae",
+      "username": "cheeese.8640"
+    }
+  ],
+  "description": "Reads open lorebooks aloud using OCR and text-to-speech, so you can keep playing while listening to the story. Press the keybind (default Ctrl+Alt+R) or click the speaker icon next to an open book.",
+  "dependencies": {
+    "bh.blishhud": "^1.2.0"
+  },
+  "url": "https://github.com/frtocheeese-ops/lorebook-reader",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/vrae.lorebook_reader_v0.2.2/vrae.lorebook_reader-0.2.2.bhm",
+  "hash": "C41B6B8EA79FA93E0133C2DFE910070807B6B89867A88DC505CC5E598A3A238D"
+}
