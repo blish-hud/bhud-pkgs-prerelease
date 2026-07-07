@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "GW2 Event Tracker",
+  "namespace": "ghost.gw2eventtracker",
+  "version": "0.1.2",
+  "contributors": [
+    {
+      "username": "Ghost.7419",
+      "name": "Ghost"
+    }
+  ],
+  "description": "Track meta and world boss schedules with alerts, daily reward progress, a Next Up overlay, and map-aware filtering.",
+  "dependencies": {
+    "bh.blishhud": "~1.3.0"
+  },
+  "url": "https://github.com/petersolymosi/gw2-event-tracker",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/ghost.gw2eventtracker_v0.1.2/ghost.gw2eventtracker-0.1.2.bhm",
+  "hash": "352C69FD3EFC5B69A64BD16D3ED53735DA38BAC237DBDEBE9356F1DABC4E5B40"
+}
