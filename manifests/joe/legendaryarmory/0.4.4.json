@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "name": "Legendary Armory",
+  "namespace": "joe.legendaryarmory",
+  "version": "0.4.4",
+  "contributors": [
+    {
+      "username": "Joe.1839",
+      "url": "https://codeberg.org/01001010",
+      "name": "Joe"
+    }
+  ],
+  "description": "Adds an overview of your unlocked Legendary Items.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "https://codeberg.org/01001010/LegendaryArmory",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/joe.legendaryarmory_v0.4.4/joe.legendaryarmory-0.4.4.bhm",
+  "hash": "3DA5322359404B14C9008C62B33C70375D8F11AFF1528D6683956736128FCC17"
+}
