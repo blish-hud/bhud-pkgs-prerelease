@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Alliance Manager",
+  "namespace": "Neokain.GW2.AllianceManager",
+  "version": "0.4.1-rc.3",
+  "contributors": [
+    {
+      "name": "Neokain",
+      "username": "Neokain.3179"
+    }
+  ],
+  "description": "Send your alliance's and guilds' shared chat messages (spams) in-game — synced from the Alliance Manager server, with favorites, hotkeys, and cooldown tracking.",
+  "dependencies": {
+    "bh.blishhud": ">=1.2.0"
+  },
+  "url": "",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/neokain.gw2.alliancemanager_v0.4.1-rc.3/Neokain.GW2.AllianceManager-0.4.1-rc.3.bhm",
+  "hash": "023D7C7DFEE2EEE6888F8F6E745339D1EC1EF0BA9E58F9C81323FE6E36BC52E1"
+}
