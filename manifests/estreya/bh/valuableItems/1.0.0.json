@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Valuable Items",
+  "namespace": "estreya.bh.valuableItems",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "name": "Estreya",
+      "username": "Estreya.8675"
+    }
+  ],
+  "description": "Never dread accidentally destroying a rare drop again. Keep your hard-earned loot safe!",
+  "dependencies": {
+    "bh.blishhud": "^1.0.0"
+  },
+  "url": "https://github.com/Tharylia/Blish-HUD-Modules",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/estreya.bh.valuableitems_v1.0.0/estreya.bh.valuableItems-1.0.0.bhm",
+  "hash": "57A3C329EE70AFF8D494316BC34CE2384DDD29ED4BA617F7A758907C862744C1"
+}
