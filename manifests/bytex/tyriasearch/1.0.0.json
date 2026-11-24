@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1",
+  "name": "Tyria Search",
+  "namespace": "bytex.tyriasearch",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "name": "Bytex"
+    }
+  ],
+  "description": "Search waypoints, points of interest, hearts, NPCs, events, items, skills and traits, then copy, paste or whisper their chat links or mark them on the map.",
+  "dependencies": {
+    "bh.blishhud": "^1.3.0"
+  },
+  "url": "https://github.com/mfdavies7/BlishHud-Modules",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/bytex.tyriasearch_v1.0.0/bytex.tyriasearch-1.0.0.bhm",
+  "hash": "9A2D63819A92704A9E65309955718E5D8C758FD8D149BAD20452B8EDBBB611A9"
+}
