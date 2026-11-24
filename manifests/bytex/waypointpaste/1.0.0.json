@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1",
+  "name": "Waypoint Paste",
+  "namespace": "bytex.waypointpaste",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "name": "Bytex"
+    }
+  ],
+  "description": "Press a hotkey to whisper a waypoint chat link to yourself.",
+  "dependencies": {
+    "bh.blishhud": "^1.3.0"
+  },
+  "url": "https://github.com/mfdavies7/BlishHud-Modules",
+  "location": "https://github.com/blish-hud/bhud-modules/releases/download/bytex.waypointpaste_v1.0.0/bytex.waypointpaste-1.0.0.bhm",
+  "hash": "6B5A845188DFA2A5A8BAB82F2C57F89EC70A47E76F068E81606943305CA9EF70"
+}
